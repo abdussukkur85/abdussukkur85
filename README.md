@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [InfoStation](https://www.infostation.digital)
 
-- 🌱 I’m currently learning **Vue JS, Node**
+- 🌱 I’m currently learning **Vue JS, Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdussukkur85](https://github.com/abdussukkur85)
 
